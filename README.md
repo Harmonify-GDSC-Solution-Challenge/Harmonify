@@ -1,4 +1,4 @@
-# Harmonify: Disability isn't Inability, if you can do one thing well, you are needed.
+# Harmonify: Disability isn't Inability.
 
 > We are all born equal-equally helpless and equally indebted to others for whatever our survival turns out to be worth <br />
 
@@ -8,6 +8,7 @@ Welcome to Harmonify, a revolutionary social media platform dedicated to creatin
 
 Watch our intro here:
 <a href="https://youtu.be/zq9kVEwcNEg">
+<br/>
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="LinkedIn Badge"/>
   </a> 	
 
@@ -48,5 +49,4 @@ DOWNLOAD LINK SOON
     </tr>
   </tbody>
 </table>
-
 
